@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Exception_Assign9.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Exception_Assign8.cpp
+C:\Users\USER\source\repos\C++\Exception_Assign9\Exception_Assign8.cpp(112,8): warning C4101: 'ch': unreferenced local variable
+C:\Users\USER\source\repos\C++\Exception_Assign9\Exception_Assign8.cpp(116,14): warning C4101: 'age': unreferenced local variable
+C:\Users\USER\source\repos\C++\Exception_Assign9\Exception_Assign8.cpp(120,19): warning C4101: 'income': unreferenced local variable
+C:\Users\USER\source\repos\C++\Exception_Assign9\Exception_Assign8.cpp(128,15): warning C4101: 'c': unreferenced local variable
+  Exception_Assign9.vcxproj -> C:\Users\USER\source\repos\C++\HelloWorld\Debug\Exception_Assign8.exe
