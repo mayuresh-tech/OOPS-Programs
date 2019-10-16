@@ -1,0 +1,8 @@
+All modern operating systems have their roots in 1969 when Dennis Ritchie and Ken
+Thompson developed the C language and the Unix operating system at AT&T Bell Labs.
+They shared their source code (yes, there was open source back in the Seventies) with the rest of the world, including the hippies in Berkeley California. By 1975, when AT&T started
+selling Unix commercially, about half of the source code was written by others. 
+The hippies were not happy that a commercial company sold software that they had written; the resulting (legal) battle ended in there being two versions of Unix: the official AT&T Unix, and the free BSD Unix.
+A Linux distribution is a collection of (usually open source) software on top of a Linux kernel. 
+A distribution (or short, distro) can bundle server software, system management tools, documentation and many desktop applications in a central secure software repository. 
+A distro aims to provide a common look and feel, secure and easy software management and often a specific operational purpose.
