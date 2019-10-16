@@ -1,12 +1,19 @@
+/* Created By : Mayuresh Mitkari */
+/* Purpose : OOPS LAB ASSIGNMENT 13 */
+/* Created on : 16 OCT 2019 */
+/* Language : C++ */
 
-//Stack using STL///
+
+/* Header files */
 #include<iostream>
 #include<stack>
 #include<string.h>
 #include<cstdlib>
 
+/* Defining namespace */
 using namespace std;
 
+/* Main Function */
 int main()
 {
 	stack<int>st;
@@ -52,3 +59,4 @@ int main()
 	}
 	return 0;
 }
+/* End of Main Function */
