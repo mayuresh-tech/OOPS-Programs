@@ -1,8 +1,17 @@
+/* Created By : Mayuresh Mitkari */
+/* Purpose : OOPS LAB ASSIGNMENT 7 */
+/* Created on : 16 OCT 2019 */
+/* Language : C++ */
+
+
+/* Header files */
 #include<iostream>
 #include<stdlib.h>
 
+/* Defining namespace */
 using namespace std;
 
+/* Defining a CLass Template */
 template<class z>
 class templates
 {
@@ -21,7 +30,7 @@ class templates
 			for (i = 0;i < n;i++)
 			cin >> arr[i];
 		}
-
+		/* Function for Selection Sort */
 		void selectionSort()
 		{
 			int i, j, min;
@@ -50,7 +59,9 @@ class templates
 			}
 		}
 };
+/* End of Class */
 
+/* Main Function */
 int main()
 {
 	int ch;
@@ -78,3 +89,4 @@ int main()
 	}
 	return 0;
 }
+/* End of Main Function */
