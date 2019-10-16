@@ -1,9 +1,18 @@
+/* Created By : Mayuresh Mitkari */
+/* Purpose : OOPS LAB ASSIGNMENT 6 */
+/* Created on : 16 OCT 2019 */
+/* Language : C++ */
+
+
+/* Header File */
 #include<fstream>
 #include<string>
 #include<iostream>
 
+/* Defining namesapce */
 using namespace std;
 
+/* Main Function */
 int main()
 {
 	int count = 0;
@@ -33,5 +42,7 @@ int main()
 
 	cout << "\n Count of A = " << count;
 	reader.close();
+	
 	return 0;
 }
+/* End of Main Function */
