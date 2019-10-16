@@ -1,10 +1,19 @@
+/* Created By : Mayuresh Mitkari */
+/* Purpose : OOPS LAB ASSIGNMENT 12 */
+/* Created on : 16 OCT 2019 */
+/* Language : C++ */
+
+
+/* Header files */
 #include <iostream>
 #include <deque>
 #include <string>
 #include <cstdlib>
 
+/* Defining namespace */
 using namespace std;
 
+/* Main Function */
 int main()
 {
 	deque<int> dq;
@@ -86,3 +95,4 @@ int main()
 	}
 	return 0;
 }
+/* End of Main Function */
