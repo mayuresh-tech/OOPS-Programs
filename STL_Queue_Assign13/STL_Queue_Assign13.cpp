@@ -1,11 +1,19 @@
+/* Created By : Mayuresh Mitkari */
+/* Purpose : OOPS LAB ASSIGNMENT 13 */
+/* Created on : 16 OCT 2019 */
+/* Language : C++ */
 
-//Queue using STL///
+
+/* Header files */
 #include<iostream>
 #include<queue>
 #include<string.h>
 #include<cstdlib>
+
+/* Defining namespace */
 using namespace std;
 
+/* Main Function */
 int main()
 {
 	queue<int>q;
@@ -50,3 +58,4 @@ int main()
 	}
 	return 0;
 }
+/* End of Main Function */
