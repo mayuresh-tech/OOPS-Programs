@@ -15,6 +15,7 @@ using namespace std;
 /* Main Function */
 int main()
 {
+	cout<<"this is main function"<<endl;
 	int count = 0;
 	string line;
 
