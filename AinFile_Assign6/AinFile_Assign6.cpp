@@ -18,7 +18,7 @@ int main()
 	int count = 0;
 	string line;
 
-	ifstream reader("story.txt");
+	ifstream reader("story.txt");  //or can be according to your choice
 
 	if (!reader)
 	{
